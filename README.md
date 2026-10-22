@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-  <a href="YOUR_DISCORD_LINK">Discord</a> ·
-  <a href="YOUR_INSTAGRAM_LINK">Instagram</a> ·
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://discord.gg/V8q2zSq3T">Discord</a> ·
+  <a href="https://www.instagram.com/tazyssh/">Instagram</a> ·
+  <a href="https://www.linkedin.com/in/tejenderthakur/">LinkedIn</a> ·
+  <a href="mailto:tejender099@gmail.com">Email</a>
 </p>
